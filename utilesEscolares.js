@@ -1,0 +1,1 @@
+console.log("Lapicera, goma, lapiz");
